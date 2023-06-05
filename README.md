@@ -1,2 +1,2 @@
 # AntiSoundLags-4.6.2
-PLEASE, READ THE Readme file!!!
+This plugin is made for private servers for Minecraft. Very often, on servers such as Atheros, Minehut, ScalaCube, lags begin when the player starts downloading new chunks, thereby heavily loading the RAM of his computer and server, This plugin loads all chunks from 0 to 10000 coordinates at the first launch in the world! At the same time, chunks will not take up much space, since they will be stored in archived form, and will not weigh more than 50 megabytes! Chunks will be loaded into the world only when the player is within 200 blocks! Works from version 1.12.2 to 1.18.)
